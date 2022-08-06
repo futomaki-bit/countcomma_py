@@ -1,2 +1,2 @@
 with open('data.txt', 'r') as file:
-    print(file.read().count(',') + 1)
+    print(file.read().count(','))
